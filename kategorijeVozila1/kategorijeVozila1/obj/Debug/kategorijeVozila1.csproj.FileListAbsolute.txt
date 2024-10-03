@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\bin\Debug\kategorijeVozila1.exe.config
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\bin\Debug\kategorijeVozila1.exe
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\bin\Debug\kategorijeVozila1.pdb
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\obj\Debug\kategorijeVozila1.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\obj\Debug\kategorijeVozila1.Form1.resources
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\obj\Debug\kategorijeVozila1.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\obj\Debug\kategorijeVozila1.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\obj\Debug\kategorijeVozila1.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\obj\Debug\kategorijeVozila1.exe
+C:\Users\Ucenik\source\repos\kategorijeVozila1\kategorijeVozila1\obj\Debug\kategorijeVozila1.pdb
